@@ -10,7 +10,7 @@ With this dataset I am trying to visualize sort of movies or shows Netflix produ
 
 The name of the Dataset used for this projects is netflix_titles.csv. There are 6234 rows in the netflix_tiltes.csv file each row containing data about a Movie/TV show.
 
-I have used Python 3 for this analysis. The Libraries/Packages I will be using in this projects are as follows:
+I have used Python 3 for this analysis. The Libraries/Packages I used in this projects are as follows:
 * numpy (as np is one of the very famous packages for working with arrays in python) 
 * pandas (Is greatly used in analysis of data and making dataframe)
 * matplotlib (Lets make our Analyzation fun and interative with the visualization library matplotlib) 
