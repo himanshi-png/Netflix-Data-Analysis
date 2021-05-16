@@ -18,7 +18,7 @@ I have used Python 3 for this analysis. The Libraries/Packages I used in this pr
 
 
 ## Inferences and Conclusion
-The above analysis gives us an overview of the movies and TV shows. The above observation contains a lot of informations about a rating of each type to where the most netflix type is realeased.
+The analysis gives an overview of the movies and TV shows. The above observation contains a lot of informations about a rating of each type to where the most netflix type is realeased.
 
 With that, we’ve come to the end of this analysis. If you are a binge watcher I am sure you have enjoyed the analysis. The following are conclusions drawn from the analysis. Hope you enjoyed!!
 
