@@ -47,7 +47,6 @@ There are lot of scopes of improvement and/or addition in this project in future
 * Matplotlib user guide: https://matplotlib.org/3.3.1/users/index.html
 * Seaborn user guide & tutorial: https://seaborn.pydata.org/tutorial.html
 * Data analysis guide(https://jovian.ml/aakashns/python-pandas-data-analysis)
-* Jovian Forum (Ask Questions in this great community): https://jovian.ml/forum/
 * Stackoverflow Community (Get answers of any problems): https://stackoverflow.com/questions
 * Python solutions in Geeksforgeeks (Solutions made easy): https://www.geeksforgeeks.org/python-programming-language/
 * Opendatasets Python library (Choosing and using datasets in python made easy): https://github.com/JovianML/opendatasets
