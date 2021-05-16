@@ -20,10 +20,10 @@ The above analysis gives us an overview of the movies and TV shows. The above ob
 With that, we’ve come to the end of this analysis. If you are a binge watcher I am sure you have enjoyed the analysis. The following are conclusions drawn from the analysis. Hope you enjoyed!!
 
 * Movies are more popular type of content than TV Shows
- -TV-MA rating is the most for which Movies are made
- -United States is the country with most releases
- -Longest Movie is of 312 mins and Shortest Movie is of 3 mins
- -Longest TV Show is of 9 seasons and Shortest TV show is of 1 season
+* TV-MA rating is the most for which Movies are made
+* United States is the country with most releases
+* Longest Movie is of 312 mins and Shortest Movie is of 3 mins
+* Longest TV Show is of 9 seasons and Shortest TV show is of 1 season
 
 ## References and Future Work
 Thank you for coming this far, I hope you enjoyed my analysis on Netflix Titles.
@@ -36,20 +36,20 @@ I would like to express my gratitude to Aakash NS and the whole Jovian.ml team f
 
 There are lot of scopes of improvement and/or addition in this project in future, with the data provided and adding extra datasets we can:
 
-Knowing about the rating of Movies and TV shows from Wikipedia
-Which director produced most Movies/TV shows
-In which year was the most content released of netflix
-What type of content was in which category
+* Knowing about the rating of Movies and TV shows from Wikipedia
+* Which director produced most Movies/TV shows
+* In which year was the most content released of netflix
+* What type of content was in which category
 
 ### Refereces
 
--Netflix Titles Dataset:https://www.kaggle.com/shivamb/netflix-shows
--Kaggle Datasets (Choose Dataset of your choice): https://www.kaggle.com/datasets
--Pandas user guide: https://pandas.pydata.org/docs/user_guide/index.html
--Matplotlib user guide: https://matplotlib.org/3.3.1/users/index.html
--Seaborn user guide & tutorial: https://seaborn.pydata.org/tutorial.html
--Data analysis guide(https://jovian.ml/aakashns/python-pandas-data-analysis)
--Jovian Forum (Ask Questions in this great community): https://jovian.ml/forum/
--Stackoverflow Community (Get answers of any problems): https://stackoverflow.com/questions
--Python solutions in Geeksforgeeks (Solutions made easy): https://www.geeksforgeeks.org/python-programming-language/
--Opendatasets Python library (Choosing and using datasets in python made easy): https://github.com/JovianML/opendatasets
+* Netflix Titles Dataset:https://www.kaggle.com/shivamb/netflix-shows
+* Kaggle Datasets (Choose Dataset of your choice): https://www.kaggle.com/datasets
+* Pandas user guide: https://pandas.pydata.org/docs/user_guide/index.html
+* Matplotlib user guide: https://matplotlib.org/3.3.1/users/index.html
+* Seaborn user guide & tutorial: https://seaborn.pydata.org/tutorial.html
+* Data analysis guide(https://jovian.ml/aakashns/python-pandas-data-analysis)
+* Jovian Forum (Ask Questions in this great community): https://jovian.ml/forum/
+* Stackoverflow Community (Get answers of any problems): https://stackoverflow.com/questions
+* Python solutions in Geeksforgeeks (Solutions made easy): https://www.geeksforgeeks.org/python-programming-language/
+* Opendatasets Python library (Choosing and using datasets in python made easy): https://github.com/JovianML/opendatasets
