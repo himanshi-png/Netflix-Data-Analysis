@@ -19,7 +19,7 @@ The above analysis gives us an overview of the movies and TV shows. The above ob
 
 With that, we’ve come to the end of this analysis. If you are a binge watcher I am sure you have enjoyed the analysis. The following are conclusions drawn from the analysis. Hope you enjoyed!!
 
- -Movies are more popular type of content than TV Shows
+* Movies are more popular type of content than TV Shows
  -TV-MA rating is the most for which Movies are made
  -United States is the country with most releases
  -Longest Movie is of 312 mins and Shortest Movie is of 3 mins
