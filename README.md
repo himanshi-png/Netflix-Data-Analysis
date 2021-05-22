@@ -1,4 +1,9 @@
 # Project title: Netflix-Data-Analysis
+
+#### The link for the Project:
+[Project Code](https://github.com/himanshi-png/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis.py)
+
+## Description
 This project, the data is about Netflix Movies and TV Series, in which I have used libraries like panda, matplotlib and seaborn that I got to learn from my course of Udacity.
 In this project I will explore number of Netflix movie titles which are either Movie or TV Show,
 most tiltes come under which rating, ost Movie/ TV Show titles are given which rating and which country had most releases. . I will write code to import the data and answer interesting questions about it by computing descriptive statistics.
