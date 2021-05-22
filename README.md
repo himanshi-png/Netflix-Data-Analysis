@@ -9,7 +9,7 @@ In this project I will explore number of Netflix movie titles which are either M
 most tiltes come under which rating, ost Movie/ TV Show titles are given which rating and which country had most releases. . I will write code to import the data and answer interesting questions about it by computing descriptive statistics.
 
 ## About the Dataset
-The given dataset was taken from the dataset bundle present in Kaggle Datasets, Refer to this link This data is freely available on Kaggle https://www.kaggle.com/shivamb/netflix-shows
+The given dataset was taken from the dataset bundle present in Kaggle Datasets, Refer to this link This data is freely available on Kaggle <https://www.kaggle.com/shivamb/netflix-shows>
 
 With this dataset I am trying to visualize sort of movies or shows Netflix produces, in which countries it invests. Hope you will enjoy the visualization provided by me.
 
@@ -46,12 +46,12 @@ There are lot of scopes of improvement and/or addition in this project in future
 
 ### Refereces
 
-* Netflix Titles Dataset:https://www.kaggle.com/shivamb/netflix-shows
-* Kaggle Datasets (Choose Dataset of your choice): https://www.kaggle.com/datasets
-* Pandas user guide: https://pandas.pydata.org/docs/user_guide/index.html
-* Matplotlib user guide: https://matplotlib.org/3.3.1/users/index.html
-* Seaborn user guide & tutorial: https://seaborn.pydata.org/tutorial.html
-* Data analysis guide(https://jovian.ml/aakashns/python-pandas-data-analysis)
-* Stackoverflow Community (Get answers of any problems): https://stackoverflow.com/questions
-* Python solutions in Geeksforgeeks (Solutions made easy): https://www.geeksforgeeks.org/python-programming-language/
-* Opendatasets Python library (Choosing and using datasets in python made easy): https://github.com/JovianML/opendatasets
+* Netflix Titles Dataset: <https://www.kaggle.com/shivamb/netflix-shows>
+* Kaggle Datasets (Choose Dataset of your choice): <https://www.kaggle.com/datasets>
+* Pandas user guide: <https://pandas.pydata.org/docs/user_guide/index.html>
+* Matplotlib user guide: <https://matplotlib.org/3.3.1/users/index.html>
+* Seaborn user guide & tutorial: <https://seaborn.pydata.org/tutorial.html>
+* Data analysis guide <https://jovian.ml/aakashns/python-pandas-data-analysis>
+* Stackoverflow Community (Get answers of any problems): <https://stackoverflow.com/questions>
+* Python solutions in Geeksforgeeks (Solutions made easy): <https://www.geeksforgeeks.org/python-programming-language/>
+* Opendatasets Python library (Choosing and using datasets in python made easy): <https://github.com/JovianML/opendatasets>
